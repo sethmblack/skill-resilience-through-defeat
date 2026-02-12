@@ -1,11 +1,10 @@
 ---
 name: resilience-through-defeat
-description: Transform catastrophic setbacks into strategic education, identify new
-  allies and approaches, and systematically plan a return.
+description: Transform catastrophic setbacks into strategic education, identify new allies and approaches, and systematically plan a return.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - resilience-through-defeat
 - transformation
